@@ -1,0 +1,2 @@
+# Courses
+Simple course catalog.
